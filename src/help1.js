@@ -2,7 +2,7 @@ const help1 = (prefix) => {
 
 	return `
 ╭──────────────╮
- *COMANDOS DO DARK*
+ *COMANDOS*
 ╰──────────────╯
  
 ➸ *${prefix}marcar*
@@ -35,7 +35,6 @@ const help1 = (prefix) => {
 ➸ *${prefix}ts (texto que deseja transmitir)*
 
 ════════════════════
-*DARK YT* 🤗
 *Digite ${prefix}dono para mais info*
 ════════════════════`
 
